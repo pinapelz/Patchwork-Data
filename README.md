@@ -9,4 +9,4 @@ The playlist of all URLs that [Patchwork Radio](https://patchwork.moekyun.me/rad
 - Links are added by chunks and aren't updated on a regular schedule
 
 # songs.sql
-A dump of the fallback database for videos that appear in the archive. Data from here is used if the .info.json metadata is unavailable.
+A dump of the fallback database for videos that appear in the archive. Data from here is used if the .info.json metadata is unavailable. The file here serves as an emergency backup.

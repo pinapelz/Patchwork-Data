@@ -7,3 +7,6 @@ The playlist of all URLs that [Patchwork Radio](https://patchwork.moekyun.me/rad
 **THIS IS NOT** a full list of what videos are archived. 
 - Shorts and other videos that are not suited for playback on the radio are removed.
 - Links are added by chunks and aren't updated on a regular schedule
+
+# songs.sql
+A dump of the fallback database for videos that appear in the archive. Data from here is used if the .info.json metadata is unavailable.

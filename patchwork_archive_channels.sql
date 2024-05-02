@@ -16,7 +16,6 @@ UPDATE patchwork_archive.channels SET channel_name = 'おじきちゃん / Ojiki
 UPDATE patchwork_archive.channels SET channel_name = '史黛菈 埃蕾諾亞 / Stella Eleanor Ch.', romanized_name = 'Shi mayuzumi ? hokori tsubomi daku a/Stella Eleanor Ch.' WHERE channel_id = 'UC_IF2EVLSGHshLLiYm8wNGQ';
 UPDATE patchwork_archive.channels SET channel_name = 'Hikari CH.ネ申乃ひかり', romanized_name = 'Hikari CH. ne saru no hikari' WHERE channel_id = 'UC_kJ27jGTWYniW-Xy3Ms5Cw';
 UPDATE patchwork_archive.channels SET channel_name = '黒燿リラ / KOKUYOU LIRA', romanized_name = 'Kuro ? lilas/KOKUYOU LIRA' WHERE channel_id = 'UC_mc5xvNyQ-2W0UHgTA1mMg';
-UPDATE patchwork_archive.channels SET channel_name = 'Cateen かてぃん', romanized_name = 'Cateen ka ti n' WHERE channel_id = 'UC_QG8miwKHFNuWY9VpkrI8w';
 UPDATE patchwork_archive.channels SET channel_name = 'Rikotanげーみんぐ', romanized_name = 'Rikotange- mi n gu' WHERE channel_id = 'UC_qi1eL89fBGLtkDH70kDDg';
 UPDATE patchwork_archive.channels SET channel_name = 'Akuma Nihmune Ch', romanized_name = 'Akuma Nihmune Ch' WHERE channel_id = 'UC_rlc0K8Yj0KQ5ApK0Z7uew';
 UPDATE patchwork_archive.channels SET channel_name = 'Keressa Zoulfia Ch. Pixela-Mystic', romanized_name = 'Keressa Zoulfia Ch. Pixela - Mystic' WHERE channel_id = 'UC_RrxXP6eSLxgYYmoV4QdmA';

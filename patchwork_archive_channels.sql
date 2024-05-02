@@ -56,13 +56,13 @@ UPDATE patchwork_archive.channels SET channel_name = '兎彷魂あみゅ Amyu Ch
 UPDATE patchwork_archive.channels SET channel_name = '本間ひまわり - Himawari Honma -', romanized_name = 'Honma himawari - Himawari Honma -' WHERE channel_id = 'UC0g1AE0DOjBYnLhkgoRWN1w';
 UPDATE patchwork_archive.channels SET channel_name = 'Alia Ch. アリア･ダヴ', romanized_name = 'Alia Ch. Aria/Davu' WHERE channel_id = 'UC0GFBfQxKz2X2w4FNp1EB2Q';
 UPDATE patchwork_archive.channels SET channel_name = 'Amora Lumina Ch. 【EIEN Project】', romanized_name = 'Amora Lumina Ch. [EIEN Project]' WHERE channel_id = 'UC0JFt5Jjl5a__zOaZLqk7Pg';
-UPDATE patchwork_archive.channels SET channel_name = 'Tetora Noa ch. 天飛愛ノア', romanized_name = 'Tetora Noa ch. ten hiai noa' WHERE channel_id = 'UC0JXwKhyt05xooLPDOSHHSw';
+UPDATE patchwork_archive.channels SET channel_name = 'Tetora Noa ch. 天飛愛ノア', romanized_name = 'Tetora Noa' WHERE channel_id = 'UC0JXwKhyt05xooLPDOSHHSw';
 UPDATE patchwork_archive.channels SET channel_name = '椎名 菜羽／nano ch.', romanized_name = 'Shiina nawa/nano ch.' WHERE channel_id = 'UC0lIq8G4LgDPlXsDmYSUExw';
 UPDATE patchwork_archive.channels SET channel_name = 'Aletta Sky 🐎🤍 アレッタ　スカイ【kawaii】', romanized_name = 'Aletta Sky?? aretta sky [kawaii]' WHERE channel_id = 'UC0lSxKAt9osiA29vnk1R4sg';
 UPDATE patchwork_archive.channels SET channel_name = '我王むすび / Musubi Gaou', romanized_name = 'Waga ou musubi/Musubi Gaou' WHERE channel_id = 'UC0OiQzb1_Xmq-0I9AYUjCew';
 UPDATE patchwork_archive.channels SET channel_name = 'Haneru Channel / 因幡はねる 【ななしいんく】', romanized_name = 'Haneru Channel/Inaba wa neru [nana shiin ku]' WHERE channel_id = 'UC0Owc36U9lOyi9Gx9Ic-4qg';
 UPDATE patchwork_archive.channels SET channel_name = '式部めぐり / Shikibu Meguri', romanized_name = 'Shikibu meguri/Shikibu Meguri' WHERE channel_id = 'UC0PGk7z_FV1FFj3avz7_38A';
-UPDATE patchwork_archive.channels SET channel_name = '宫园凛', romanized_name = '?? rin' WHERE channel_id = 'UC0PwyIlUefx1LGWjFI0QjMg';
+UPDATE patchwork_archive.channels SET channel_name = '宫园凛', romanized_name = 'Rin Miyazono' WHERE channel_id = 'UC0PwyIlUefx1LGWjFI0QjMg';
 UPDATE patchwork_archive.channels SET channel_name = 'デラハド', romanized_name = 'Derahado' WHERE channel_id = 'UC0QzO6nK1cEDZvJSt2769Zw';
 UPDATE patchwork_archive.channels SET channel_name = 'YukaSaku Ch.', romanized_name = 'YukaSaku Ch.' WHERE channel_id = 'UC0RK6qQziiSOuAhlZgIkbAg';
 UPDATE patchwork_archive.channels SET channel_name = 'さとうなむチャンネル', romanized_name = 'Satou na muchannel' WHERE channel_id = 'UC0RSwNM5hbZ17nr8HoR6pqw';
